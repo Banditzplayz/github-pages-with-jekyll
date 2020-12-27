@@ -8,6 +8,6 @@ I'm the Github guide bot and I'm here to help guide you in your journey to learn
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to use the command line!
+I'll meet you over there, can't wait to see you!
 
-This repository is licensed under [MIT](../LICENSE) (c) 2021 Banditz Multisystems, Inc.
+This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.

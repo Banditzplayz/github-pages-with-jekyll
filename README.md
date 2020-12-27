@@ -1,4 +1,4 @@
- >:) You're Learning The Mask Programming Language, Brother.
+ # You're Learning The Mask Programming Language, Brother.
 
 Welcome to **your** repository for your Mask Programming Language Course. This repository will be used during the different activities that I will be guiding you through. 
 

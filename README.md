@@ -10,4 +10,4 @@ I'm Mr. Iethaniel Gatbonton and I'm here to help guide you in your journey to le
 
 I'll meet you over there, can't wait to use the command line!
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 Banditz Multisystems, Inc.
+This repository is licensed under [MIT](../LICENSE) (c) 2021 Banditz Multisystems, Inc.
